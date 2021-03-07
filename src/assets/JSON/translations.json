@@ -1,0 +1,60 @@
+{
+    "English":{
+        "header":[
+            "CARD LIST",
+            "Language",
+            "English",
+            "Spanish"
+        ],
+        "footer":[
+            "Social Networks",
+            "© 1993-2021 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved."
+        ],
+        "home":[
+            "What is Magic The Gathering?",
+            "Magic: The Gathering game is the world's premier <strong>trading card game</strong>. It was the first of its kind, and it's still the best and the biggest.<br><br>",
+            "In the Magic game, you play the role of a <strong>planeswalker</strong> a powerful wizard who fights other planeswalkers for glory, knowledge, and conquest.<br><br>Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you.<br><br>",
+            "Trading card games like the Magic: The Gathering TCG combine collectable cards with a strategy game. You don't know what you'll get in a Magic booster pack. You just start a collection and trade with other players to get the cards you want.<br><br>The best part about a trading card game is that it's <strong>always changing.</strong> You design and build your own unique decks, and each Magic game you play is different. New Magic expansions are released a few times a year, and each new expansion brings new ways to stupefy and defeat your opponents.",
+            "How to play Magic the Gathering?",
+            "Mechanically speaking: you each have a <strong>60 card deck</strong> (although the number of cards in a deck can change depending on what Magic: The Gathering format you're playing). This deck might be made up of <strong>one type of ‘land’</strong> or colour theme - like Red, Black, White, Green and Blue. More advanced Magic: The Gathering decks can include any combination of colours, such as Red/Blue or Black/Green.<br><br>Both of you will draw a hand of random seven cards at the start. If your starting hand looks bad (for example, you’ve not drawn any ‘land’ cards), you can take a ‘Mulligan’, which lets you discard your hand and draw a new set of cards, but reduced down to six.<br><br>Once you’ve decided on your hand, you both then continue drawing cards with each round of play.<br><br>In its simplest iteration, MTG cards are split into three types: <strong>lands, spells and creatures</strong>. Just to emphasise, these are the most basic cards. More advanced decks include things like planeswalkers - mighty wizards with special abilities and their own health pool.<br><br>At the start of every turn, you’ll need to lay down land cards to power anything else you need. The more powerful the card, the more <strong>mana</strong> it’ll require to run. Some cards require more than one type of mana, often in specific colours.",
+            "Detailed guide",
+            "How to use this website?",
+            "This website allows you to search for some of the main cards from Magic The Gathering. This website has <strong>2 main features: </strong> the card list and the card details.",
+            "<strong>The card list section</strong> allows you to search for any card from this website. You can <strong>filter the results</strong> with our navigation bar to get more accurate results, each element od the list contains the name, mana cost, color and image of the card it represents. When clicked, the element button will display a detailed view of the card.<br><br>To acces to the card list simply click on this button or the one the header of this website any time:",
+            "Card List >>",
+            "<strong>The details section</strong> allows you to see all the card features and details of the selected card. It includes not only the main competitive info of the card, but the quotes and original text too.<br><br>To acces to a card details simply <strong>click on the button of the element of the card list</strong> that you want to see the details of.",
+            "Remember that in case you want to <strong>change the language</strong> you can do so by selecting your preference language on the right side of the header of this website.<br><br><strong>¡Enjoy our website!</strong><br><br><br><br>"
+        ],
+        "cardList":{},
+        "cardDetails":{}
+    },
+    "Spanish":{
+        "header":[{
+            "0":"LISTA DE CARTAS",
+            "1":"Idiomas",
+            "2":"Inglés",
+            "3":"Español"
+        }],
+        "footer":[{
+            "0":"Redes sociales",
+            "1":"© 1993-2021 Wizards of the Coast LLC, una subsidiaria de Hasbro, Inc. Todos los derechos reservados."
+        }],
+        "home":[
+            "¿Qué es Magic The Gathering?",
+            "El juego Magic: The Gathering  es el principal <strong>juego de cartas coleccionables</strong> del mundo. Es el primer juego de este tipo, y es todavia el mejor y el más grande.<br><br>",
+            "En el juego de Magic, tomas el rol de un <strong>planeswalker</strong> un poderoso brujo que lucha contra otros planeswalkers por gloria, conocimiento y conquistas.<br><br>Tu mazo de cartas representa tu arsenal de armas. Contiene todos los hechizos que conoces y las criaturas que puedes invocar para luchar por ti.<br><br>",
+            "Los juegos de cartas coleccionables como Magic: The Gathering TCG cobinan cartas coleccionables con juegos de estrategia. Desconoces lo que te tocará en un pack de Magic booster. Solo empiezas una colección e intercambias cartas con otros jugadores para conseguir las que quieras.<br><br>La mejor parte de este tipo de juegos es que <strong>siempre está cambiando.</strong> Diseñas y construyes tu propio mazo haciéndolo única, y cada juego de Magic es diferente. Nuevas expansiones de Magic son lanzadas varias veces al año, y cada nueva expansión trae algo nuevo para poder destruir a tus oponentes.",
+            "¿Cómo jugar a Magic The Gathering?",
+            "Mecánicamente hablando: puedes tener un <strong>mazo de 60 cartas</strong> (aunque el número de cartas en el mazo puede variar dependiendo de en qué formato de Magic: The Gathering estés jugando). El mazo puede estar compuesto por <strong>un tipo de 'tierra'</strong> o color - como Rojo, Negro, Blanco, Verde y Azul. Los mazos más avanzados de Magic: The Gathering pueden incluir cualquier combinación de colores, como Roja/Azul o Blanca/Verde.<br><br>Ambos oponentes cogerán una mano de 7 cartas al principio del juego. SI tu primera mano no parece buena (por ejemplo, no te ha tocado ninguna carta 'tierra'), puedes hacer un ‘Mulligan’, que te permite descartar tu mano y robar una nueva mano, pero esta vez será una mano de 6 cartas.<br><br>Una vez estás conforme con tu mano, ambos seguiréis robando cartas cada ronda del juego.<br><br>Para simplificarlo, las cartas de MTG se dividen en 3 tipos: <strong>tierras, hechizos y criaturas</strong>. Para enfatizar, estas son las cartas más básicas. Los mazos más avanzados incluyen cosas como planeswalkers - brujos poderosos con habilidades especiales y vida propia.<br><br> al principio de cada turno, tendrás que bajar cartas para aumentar el poder de cualquier cosa que lo necesite. Cuanto más poderosa sea la carta, más <strong>maná</strong> necesitará para ser usada. Algunas cartas requieren más de un tipo de maná, normalmente de colores específicos.",
+            "Guía detallada",
+            "¿Cómo usar esta página?",
+            "Esta página permite la búsqueda de algunasde las principales cartas de Magic The Gathering. Tiene <strong>2 principales caracteríticas: </strong> la lista de cartas y los detalles de una carta.",
+            "<strong>La sección de lista de cartas</strong> permite encontrar cualquier carta de esta página. Puedes <strong>filtrar los resultados</strong> con nuestra barra de navegación para obtener resultados más precisos, cada elemento en esta lista contiene el nombre, coste de maná, colores e imágen de la carta que representa. Cuando haces click en el botón de un elemento, se mostrará una vista detallada de la carta.<br><br>Para acceder a la lista de cartas simplemente haz click en este botón o en que se encuentra en la cabecera de esta página en cualquier momento:",
+            "Lista de cartas >>",
+            "<strong>La sección de detalles</strong> pemite ver todas las caracteríticas y detalles de la carta seleccionada. Incluye no solo la información más competitiva de la carta, pero las frases y textos originales también.<br><br>Para acceder a los detalles de la carta simplemente <strong>haz click en el botón de un resultado de la lista de cartas</strong> del que quieras ver sus detalles.",
+            "Recuerda que en caso de que necesites <strong>cambiar el idioma</strong> puedes hacerlo seleccionando tu el lenguaje que prefieras a la derecha de la cabecera de esta página.<br><br><strong>¡Que disfrutes de nuestra página!</strong><br><br><br><br>"
+        ],
+        "cardList":{},
+        "cardDetails":{}
+    }
+}
